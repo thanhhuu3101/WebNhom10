@@ -76,7 +76,7 @@
 </div>
 	
 <div class="row">
-  <img src="https://tuyensinh.tvu.edu.vn/uploads/news/2021_09/quy-trinh-1.jpg" class="w-100" alt="...">
+  <img src="https://sobanhang.com/wp-content/uploads/2023/06/AAF16AA0-67AE-429F-93D6-A8691A1572CE-14.jpg" class="w-100" alt="...">
 </div>
 
 
